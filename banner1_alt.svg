@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- GNU Emacs Banner Copyright (C) 2025 Elijah Gabe
+
+This file is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This file is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this file.  If not, see <https://www.gnu.org/licenses>
+-->
+
+<!-- Created with Inkscape (http://www.inkscape.org/)
+===
+The fira sans font is required to properly display the text.
+You can get it here: https://fonts.google.com/specimen/Fira+Sans
+===
+-->
 
 <svg
    width="1028"
@@ -17,7 +38,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"><sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
      bordercolor="#ffffff"
@@ -366,7 +389,7 @@
      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:52.3148px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';text-align:center;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#eee9d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02982;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"><tspan
        x="493.03162"
        y="591.98099"
-       id="tspan1">GNU</tspan></text><g
+       id="tspan5">GNU</tspan></text><g
      id="g44"
      transform="matrix(0.30043455,0,0,0.30043455,58.793673,1.9725667)"
      style="display:inline"><text
@@ -376,7 +399,7 @@
        style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium Italic';text-align:center;white-space:pre;shape-inside:url(#rect2-4-4);display:inline;mix-blend-mode:normal;fill:url(#linearGradient24);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.20873;stroke-linejoin:miter;stroke-dasharray:none;paint-order:markers stroke fill"><tspan
          x="482.5495"
          y="598.92969"
-         id="tspan2">macs</tspan></text><path
+         id="tspan6">macs</tspan></text><path
        d="m 269.52867,66.782876 c 0,0 1.67804,0.14134 3.90649,-0.08519 0.90245,-0.09176 4.33563,-0.479925 6.96347,-1.127908 0,0 3.20071,-0.77097 4.96391,-1.481207 1.84488,-0.743159 2.88745,-1.373898 3.4608,-2.267618 0.0129,-0.183122 0.27162,-0.832492 -0.45402,-1.222546 -1.85532,-0.997242 -4.23528,-0.816857 -8.86395,-0.932546 -5.11943,-0.207886 -6.66136,-1.220698 -7.43559,-2.036412 -0.73472,-0.827513 0.0966,-3.116879 4.19415,-5.133466 2.07398,-1.073868 9.82388,-3.055583 9.82388,-3.055583 -2.24888,-1.448211 -6.4687,-3.994112 -7.33163,-4.543873 -0.75682,-0.482174 -1.97578,-1.208185 -2.11691,-2.086564 -0.18603,-0.843267 1.04737,-1.569667 1.70261,-1.777694 2.11126,-0.675752 5.00056,-1.095766 7.57298,-1.142917 1.293,-0.02366 1.51884,-0.121046 1.51884,-0.121046 1.83767,-0.346292 3.25232,-1.774594 3.15064,-4.036597 -0.0438,-2.308928 -2.12184,-3.665614 -4.39691,-3.195945 -2.14241,0.442299 -7.41415,2.140852 -7.41415,2.140852 6.16853,-0.06251 7.17861,0.05808 7.50997,0.813499 0.19569,0.446121 -0.30419,1.057836 -2.00014,1.372665 -1.84642,0.342752 -5.63348,0.755521 -5.63348,0.755521 -3.60781,0.248535 -6.12213,0.265174 -7.19494,2.137105 -0.70086,1.222964 0.13147,2.304144 0.46162,2.980921 1.46375,2.458574 3.95792,3.784563 5.54236,4.761024 0.59617,0.367389 2.41097,1.061214 2.41097,1.061214 -5.61843,-0.366763 -10.06605,1.680834 -12.87241,4.038371 -3.22281,2.951889 -2.62068,6.470457 2.57975,8.636939 3.07161,1.279607 4.6005,1.8814 9.59662,1.36268 2.92183,-0.182883 3.35894,-0.07408 3.34022,0.204348 -0.0264,0.391974 -3.44374,1.365647 -4.38267,1.66617 -2.38861,0.764535 -8.57156,2.308301 -8.60247,2.315795 z"
        id="path4237-6"
        style="display:inline;fill:#723dc2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g><rect
@@ -400,6 +423,9 @@
      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:20.0424px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Light';text-align:center;white-space:pre;shape-inside:url(#rect2-75);display:inline;fill:#eee9d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02982;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"><tspan
        x="456.90151"
        y="562.80136"
-       id="tspan4"><tspan
+       id="tspan8"><tspan
          style="font-style:italic;-inkscape-font-specification:'Fira Sans Light Italic'"
-         id="tspan3">The long-live editor</tspan></tspan></text></svg>
+         id="tspan7">The long-live editor</tspan></tspan></text><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html#license-text" /></cc:Work></rdf:RDF></metadata></svg>
